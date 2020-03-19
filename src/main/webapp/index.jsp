@@ -91,7 +91,7 @@
 							</button>
 						</div>
 					
-						<a class="navbar-brand" href="#pablo"><c:out value="${painel}"/></a>
+						<a class="navbar-brand" href="#pablo"><c:out value="Painel de informações"/></a>
 					</div>
 					<button class="navbar-toggler" type="button" data-toggle="collapse"
 						data-target="#navigation" aria-controls="navigation-index"

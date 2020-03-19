@@ -60,10 +60,14 @@
 						
 						<a
 							href="Controller?operacao=FinalizarCompra&acao=jogo"
-							style="text-decoration: none;" class="btn btn-sucess btn-sm"> Finalizar pagamento
+							style="text-decoration: none;" class="btn btn-primary btn-sm"> Finalizar pagamento
+						</a> | <a
+							href="Controller?operacao=ItensLojaVirtual&acao=jogo"
+							style="text-decoration: none;" class="btn btn-sucess btn-sm"> Continuar comprando
 						</a>
 					</div>
 				</div>
+				
 			</div>
 		</div>
 
